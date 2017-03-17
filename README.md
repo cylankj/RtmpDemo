@@ -1,8 +1,8 @@
 
 #CYLAN rtmp demo code
-http://www.cylan.com.cn/
 
 =============================
+
 Compile:
 	1. 修改编译平台
 		PLATFORM=hisi_3518e
